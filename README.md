@@ -2,6 +2,8 @@
 
 RecognAItion is an experimental repository for audio-based emotion recognition. It gathers several approaches (classical ML and deep learning) and example data processing pipelines to explore emotion classification from speech recordings.
 
+We gave an [oral presentation](./Oral_presentation.pdf') and submitted a [deliverable](./CR_PROJET_S7.pdf)
+
 ## Project goals
 
 - Collect data preprocessing scripts and feature exports used for training classical ML models.
