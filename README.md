@@ -41,7 +41,7 @@ Additional datasets :
 
 ## Warning
 
-You might need to modify the hard-coded path in python scripts to ensure it points ot the right folder
+You might need to modify the hard-coded paths in python scripts to ensure it points to the right folders.
 
 ## Results
 
