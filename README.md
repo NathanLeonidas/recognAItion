@@ -20,7 +20,7 @@ We gave an [oral presentation](./Oral_presentation.pdf) and submitted a [deliver
   - `LSTM/own_dataset/`: dataset generator, sample test scripts and pretrained `.pth` model files.
   - `LSTM/CremaD/`, `LSTM/EmoDB/`, `LSTM/EmoDB_and_CremaD_mix/`: dataset-specific model scripts.
 
-## Installation (for Windows)
+## Example installation
 
 Create a virtual environment and install dependencies:
 
