@@ -1,0 +1,13 @@
+librosa
+numpy
+torch
+scikit-learn
+pandas
+matplotlib
+opensmile
+pytubefix
+googleapiclient
+langdetect
+textstat
+pydub
+transformers
