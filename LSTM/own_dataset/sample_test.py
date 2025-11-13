@@ -97,7 +97,7 @@ model.load_state_dict(torch.load("lstm_ytb.pth", map_location=torch.device('cpu'
 model.to(device)
 
 # Utiliser un fichier audio d'exemple pour l'analyse
-audio_file = './08b10Wa.wav'
+audio_file = './samples/08b10Wa.wav'
 
 # Analyser l'échantillon et afficher le graphique radar
 analyze_sample(model, audio_file, device=device)
